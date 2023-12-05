@@ -1,0 +1,71 @@
+/* Sidebar Styling */
+.bg-light {
+    background-color: #f8f9fa!important;
+  }
+  
+  .border-left {
+    border-left: 1px solid #dee2e6!important;
+  }
+  
+  /* Title Styling */
+  h3 {
+    color: #333;
+    font-size: 1.5em;
+  }
+  
+  /* Card Styling */
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+  }
+  
+  /* Add padding and hover effect to cards */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Image Styling */
+  .card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+  }
+  
+  /* Total Price Styling */
+  .total-price h4 {
+    padding: 10px;
+    background-color: #e9ecef;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  /* Order Status Styling */
+  .order-status h4 {
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+  }
+  
+  /* Red status */
+  .color-red {
+    background-color: #dc3545;
+  }
+  
+  /* Blue status */
+  .color-blue {
+    background-color: #007bff;
+  }
+  
+  /* Green status */
+  .color-green {
+    background-color: #28a745;
+  }
+  
+  /* Sort Select Styling */
+  .form-select {
+    margin-bottom: 20px;
+  }
+  
